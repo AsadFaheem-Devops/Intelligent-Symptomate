@@ -100,7 +100,7 @@ export default function ChangePassword() {
                     type="text"
                     className="fname"
                     name="fname"
-                    placeholder="Your Name"
+                    placeholder="Enter your Name"
                     onChange={(e) => setname(e.target.value)}
                   />
 
